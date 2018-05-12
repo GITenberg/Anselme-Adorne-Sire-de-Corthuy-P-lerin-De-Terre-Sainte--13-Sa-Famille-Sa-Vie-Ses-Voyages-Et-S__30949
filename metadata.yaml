@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34916'
     url: http://www.gutenberg.org/2009/agents/34916
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30949#Anselme-Adorne-Sire-de-Corthuy-P-lerin-De-Terre-Sainte--13-Sa-Famille-Sa-Vie-Ses-Voyages-Et-S_
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2010-01-13'
 gutenberg_type: Text
